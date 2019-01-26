@@ -24,7 +24,7 @@
 		<property name="driverClassName" value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy"></property>
 		
 		<property name="jdbcUrl"
-			value="jdbc:log4jdbc:postgresql://192.168.43.168:5432/linker"></property>
+			value="jdbc:log4jdbc:postgresql://192.168.219.124:5432/linker"></property>
 
 		<property name="username" value="postgres"></property>
 		<property name="password" value="1111"></property>
